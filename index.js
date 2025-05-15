@@ -13,11 +13,13 @@ myNewArray.push('delta')
 myNewArray.push('echo')
 myNewArray.push('foxtrat')
 
+console.log(myNewArray.remove(2))
+
+{/*
 myNewArray.get(0);
 
 myNewArray.pop()
 
 myNewArray.shift()
-
-console.log(myNewArray)
+*/}
 
